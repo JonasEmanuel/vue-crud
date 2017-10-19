@@ -1,4 +1,4 @@
-# vue-auth-client
+# CRUD using VueJS
 
 > A Vue.js project
 
